@@ -1,0 +1,12 @@
+apiVersion: 1
+datasources:
+  - name: GLPI-Database
+    type: mysql
+    url: mariadb:3306
+    database: glpi
+    user: glpi_user
+    secureJsonData:
+      password: changeme
+    jsonData:
+      sslmode: disable
+    isDefault: true
