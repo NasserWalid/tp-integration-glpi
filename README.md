@@ -15,7 +15,7 @@ Ce projet déploie une infrastructure conteneurisée complète autour de GLPI (G
 
 ## 3. Instructions de démarrage
 1. Clonez ce dépôt.
-2. Copiez le fichier `.env.example` en `.env` (déjà fait si vous avez utilisé le script d'initialisation).
+2. Copiez le fichier `.env.example` en `.env`.
 3. Démarrez l'infrastructure avec la commande :
    ```bash
    docker compose up -d
