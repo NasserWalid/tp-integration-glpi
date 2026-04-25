@@ -1,6 +1,6 @@
 # Projet d'Intégration Logicielle - ITSM & Monitoring
 
-**Membres du groupe : OUOBA Lionel
+**Membres du groupe : OUOBA Daniel
                       KABORE S Evelyne
                       ZOUNGRANA Abdoul Nasser
 
